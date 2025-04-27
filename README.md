@@ -32,7 +32,7 @@ Restro-Robot consists of several integrated components:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Dishant-garg/restro-robot.git
+git clone https://github.com/tarangagrawal6/Zomato-Assignment.git
 cd restro-robot
 ```
 
