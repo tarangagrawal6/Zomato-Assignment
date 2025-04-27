@@ -1,0 +1,6 @@
+data_directory: uploads/data
+embedding_model: sentence-transformers/all-mpnet-base-v2
+llm_repo_id: llama-3.3-70b-versatile
+llm_temperature: 0.7
+llm_max_new_tokens: 1024
+vector_top_k: 5

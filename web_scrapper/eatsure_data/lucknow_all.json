@@ -1,0 +1,333 @@
+{
+  "city": "lucknow",
+  "areas": [
+    {
+      "name": "Alam Bagh",
+      "slug": "alam-bagh",
+      "restaurants": [
+        {
+          "name": "Rice Bowl",
+          "url": "https://www.eatsure.com/the-good-bowl/lucknow/alam-bagh"
+        },
+        {
+          "name": "Royal Biryani",
+          "url": "https://www.eatsure.com/behrouz-biryani/lucknow/alam-bagh"
+        },
+        {
+          "name": "Pizzas",
+          "url": "https://www.eatsure.com/ovenstory/lucknow/alam-bagh"
+        },
+        {
+          "name": "Burger",
+          "url": "https://www.eatsure.com/wendy-s/lucknow/alam-bagh"
+        },
+        {
+          "name": "Honest Bowls",
+          "url": "https://www.eatsure.com/honest-bowl/lucknow/alam-bagh"
+        },
+        {
+          "name": "Wraps",
+          "url": "https://www.eatsure.com/faasos/lucknow/alam-bagh"
+        },
+        {
+          "name": "Desserts",
+          "url": "https://www.eatsure.com/sweet-truth/lucknow/alam-bagh"
+        },
+        {
+          "name": "Pasta & Lasagnas",
+          "url": "https://www.eatsure.com/firangi-bake/lucknow/alam-bagh"
+        },
+        {
+          "name": "Hyderabadi Biryani",
+          "url": "https://www.eatsure.com/the-biryani-life/lucknow/alam-bagh"
+        },
+        {
+          "name": "Homestyle Meals",
+          "url": "https://www.eatsure.com/lunchbox/lucknow/alam-bagh"
+        },
+        {
+          "name": "Veg Meals",
+          "url": "https://www.eatsure.com/pure-veg-meals-by-lunchbox/lucknow/alam-bagh"
+        },
+        {
+          "name": "North Indian",
+          "url": "https://www.eatsure.com/makhani-darbar/lucknow/alam-bagh"
+        },
+        {
+          "name": "Pizza",
+          "url": "https://www.eatsure.com/slice-it/lucknow/alam-bagh"
+        },
+        {
+          "name": "Ice Cream",
+          "url": "https://www.eatsure.com/the-brooklyn-creamery/lucknow/alam-bagh"
+        },
+        {
+          "name": "Ice Cream",
+          "url": "https://www.eatsure.com/slow-churn-ice-cream/lucknow/alam-bagh"
+        },
+        {
+          "name": "Loaded wrap",
+          "url": "https://www.eatsure.com/signature-wraps-rolls-by-faasos/lucknow/alam-bagh"
+        },
+        {
+          "name": "Biryani",
+          "url": "https://www.eatsure.com/thalaiva-biryani/lucknow/alam-bagh"
+        },
+        {
+          "name": "Bite Club",
+          "url": "https://www.eatsure.com/bite-club/lucknow/alam-bagh"
+        },
+        {
+          "name": "Ice cream",
+          "url": "https://www.eatsure.com/kwality-walls-frozen-dessert-and-ice-creme-shop-ae/lucknow/alam-bagh"
+        }
+      ]
+    },
+    {
+      "name": "Aliganj",
+      "slug": "aliganj",
+      "restaurants": [
+        {
+          "name": "Rice Bowl",
+          "url": "https://www.eatsure.com/the-good-bowl/lucknow/aliganj"
+        },
+        {
+          "name": "Royal Biryani",
+          "url": "https://www.eatsure.com/behrouz-biryani/lucknow/aliganj"
+        },
+        {
+          "name": "Pizzas",
+          "url": "https://www.eatsure.com/ovenstory/lucknow/aliganj"
+        },
+        {
+          "name": "Wraps",
+          "url": "https://www.eatsure.com/faasos/lucknow/aliganj"
+        },
+        {
+          "name": "Homestyle Meals",
+          "url": "https://www.eatsure.com/lunchbox/lucknow/aliganj"
+        },
+        {
+          "name": "Honest Bowls",
+          "url": "https://www.eatsure.com/honest-bowl/lucknow/aliganj"
+        },
+        {
+          "name": "Veg Meals",
+          "url": "https://www.eatsure.com/pure-veg-meals-by-lunchbox/lucknow/aliganj"
+        },
+        {
+          "name": "Burger",
+          "url": "https://www.eatsure.com/wendy-s/lucknow/aliganj"
+        },
+        {
+          "name": "Loaded wrap",
+          "url": "https://www.eatsure.com/signature-wraps-rolls-by-faasos/lucknow/aliganj"
+        },
+        {
+          "name": "Hyderabadi Biryani",
+          "url": "https://www.eatsure.com/the-biryani-life/lucknow/aliganj"
+        },
+        {
+          "name": "Pasta & Lasagnas",
+          "url": "https://www.eatsure.com/firangi-bake/lucknow/aliganj"
+        },
+        {
+          "name": "Desserts",
+          "url": "https://www.eatsure.com/sweet-truth/lucknow/aliganj"
+        },
+        {
+          "name": "Ice Cream",
+          "url": "https://www.eatsure.com/slow-churn-ice-cream/lucknow/aliganj"
+        },
+        {
+          "name": "Bite Club",
+          "url": "https://www.eatsure.com/bite-club/lucknow/aliganj"
+        },
+        {
+          "name": "Biryani",
+          "url": "https://www.eatsure.com/thalaiva-biryani/lucknow/aliganj"
+        },
+        {
+          "name": "North Indian",
+          "url": "https://www.eatsure.com/makhani-darbar/lucknow/aliganj"
+        },
+        {
+          "name": "Ice cream",
+          "url": "https://www.eatsure.com/kwality-walls-frozen-dessert-and-ice-creme-shop-ae/lucknow/aliganj"
+        },
+        {
+          "name": "Pizza",
+          "url": "https://www.eatsure.com/slice-it/lucknow/aliganj"
+        }
+      ]
+    },
+    {
+      "name": "Gomti Nagar",
+      "slug": "gomti-nagar",
+      "restaurants": [
+        {
+          "name": "Rice Bowl",
+          "url": "https://www.eatsure.com/the-good-bowl/lucknow/gomti-nagar"
+        },
+        {
+          "name": "Royal Biryani",
+          "url": "https://www.eatsure.com/behrouz-biryani/lucknow/gomti-nagar"
+        },
+        {
+          "name": "Pizzas",
+          "url": "https://www.eatsure.com/ovenstory/lucknow/gomti-nagar"
+        },
+        {
+          "name": "Burger",
+          "url": "https://www.eatsure.com/wendy-s/lucknow/gomti-nagar"
+        },
+        {
+          "name": "Biryani",
+          "url": "https://www.eatsure.com/biryani-blues/lucknow/gomti-nagar"
+        },
+        {
+          "name": "Wraps",
+          "url": "https://www.eatsure.com/faasos/lucknow/gomti-nagar"
+        },
+        {
+          "name": "Homestyle Meals",
+          "url": "https://www.eatsure.com/lunchbox/lucknow/gomti-nagar"
+        },
+        {
+          "name": "Honest Bowls",
+          "url": "https://www.eatsure.com/honest-bowl/lucknow/gomti-nagar"
+        },
+        {
+          "name": "Veg Meals",
+          "url": "https://www.eatsure.com/pure-veg-meals-by-lunchbox/lucknow/gomti-nagar"
+        },
+        {
+          "name": "Pasta & Lasagnas",
+          "url": "https://www.eatsure.com/firangi-bake/lucknow/gomti-nagar"
+        },
+        {
+          "name": "Desserts",
+          "url": "https://www.eatsure.com/sweet-truth/lucknow/gomti-nagar"
+        },
+        {
+          "name": "Hyderabadi Biryani",
+          "url": "https://www.eatsure.com/the-biryani-life/lucknow/gomti-nagar"
+        },
+        {
+          "name": "North Indian",
+          "url": "https://www.eatsure.com/makhani-darbar/lucknow/gomti-nagar"
+        },
+        {
+          "name": "Pizza",
+          "url": "https://www.eatsure.com/slice-it/lucknow/gomti-nagar"
+        },
+        {
+          "name": "Ice Cream",
+          "url": "https://www.eatsure.com/slow-churn-ice-cream/lucknow/gomti-nagar"
+        },
+        {
+          "name": "Loaded wrap",
+          "url": "https://www.eatsure.com/signature-wraps-rolls-by-faasos/lucknow/gomti-nagar"
+        },
+        {
+          "name": "Biryani",
+          "url": "https://www.eatsure.com/thalaiva-biryani/lucknow/gomti-nagar"
+        },
+        {
+          "name": "Bite Club",
+          "url": "https://www.eatsure.com/bite-club/lucknow/gomti-nagar"
+        },
+        {
+          "name": "Ice cream",
+          "url": "https://www.eatsure.com/kwality-walls-frozen-dessert-and-ice-creme-shop-ae/lucknow/gomti-nagar"
+        }
+      ]
+    },
+    {
+      "name": "Hazratganj",
+      "slug": "hazratganj",
+      "restaurants": [
+        {
+          "name": "Rice Bowl",
+          "url": "https://www.eatsure.com/the-good-bowl/lucknow/hazratganj"
+        },
+        {
+          "name": "Royal Biryani",
+          "url": "https://www.eatsure.com/behrouz-biryani/lucknow/hazratganj"
+        },
+        {
+          "name": "Pizzas",
+          "url": "https://www.eatsure.com/ovenstory/lucknow/hazratganj"
+        },
+        {
+          "name": "Homestyle Meals",
+          "url": "https://www.eatsure.com/lunchbox/lucknow/hazratganj"
+        },
+        {
+          "name": "Desserts",
+          "url": "https://www.eatsure.com/sweet-truth/lucknow/hazratganj"
+        },
+        {
+          "name": "Hyderabadi Biryani",
+          "url": "https://www.eatsure.com/the-biryani-life/lucknow/hazratganj"
+        },
+        {
+          "name": "Pasta & Lasagnas",
+          "url": "https://www.eatsure.com/firangi-bake/lucknow/hazratganj"
+        },
+        {
+          "name": "Honest Bowls",
+          "url": "https://www.eatsure.com/honest-bowl/lucknow/hazratganj"
+        },
+        {
+          "name": "Wraps",
+          "url": "https://www.eatsure.com/faasos/lucknow/hazratganj"
+        },
+        {
+          "name": "Burger",
+          "url": "https://www.eatsure.com/wendy-s/lucknow/hazratganj"
+        },
+        {
+          "name": "Veg Meals",
+          "url": "https://www.eatsure.com/pure-veg-meals-by-lunchbox/lucknow/hazratganj"
+        },
+        {
+          "name": "North Indian",
+          "url": "https://www.eatsure.com/makhani-darbar/lucknow/hazratganj"
+        },
+        {
+          "name": "Pizza",
+          "url": "https://www.eatsure.com/slice-it/lucknow/hazratganj"
+        },
+        {
+          "name": "Ice Cream",
+          "url": "https://www.eatsure.com/the-brooklyn-creamery/lucknow/hazratganj"
+        },
+        {
+          "name": "Biryani",
+          "url": "https://www.eatsure.com/biryani-blues/lucknow/hazratganj"
+        },
+        {
+          "name": "Ice Cream",
+          "url": "https://www.eatsure.com/slow-churn-ice-cream/lucknow/hazratganj"
+        },
+        {
+          "name": "Loaded wrap",
+          "url": "https://www.eatsure.com/signature-wraps-rolls-by-faasos/lucknow/hazratganj"
+        },
+        {
+          "name": "Biryani",
+          "url": "https://www.eatsure.com/thalaiva-biryani/lucknow/hazratganj"
+        },
+        {
+          "name": "Bite Club",
+          "url": "https://www.eatsure.com/bite-club/lucknow/hazratganj"
+        },
+        {
+          "name": "Ice cream",
+          "url": "https://www.eatsure.com/kwality-walls-frozen-dessert-and-ice-creme-shop-ae/lucknow/hazratganj"
+        }
+      ]
+    }
+  ]
+}

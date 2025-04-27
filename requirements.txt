@@ -1,0 +1,30 @@
+# Core Python libraries
+requests
+beautifulsoup4
+
+# Data handling
+numpy
+pandas
+
+# For JSON and YAML config
+pyyaml
+
+# For embeddings and vector search
+sentence-transformers
+faiss-cpu
+
+# For web app
+streamlit
+
+# For LLM and RAG
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-huggingface
+# langchain-embeddings
+
+requests
+pandas
+bs4
+beautifulsoup4
