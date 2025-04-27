@@ -33,7 +33,7 @@ Restro-Robot consists of several integrated components:
 1. Clone the repository:
 ```bash
 git clone https://github.com/tarangagrawal6/Zomato-Assignment.git
-cd restro-robot
+cd Zomato-Assignment
 ```
 
 2. Install dependencies:
@@ -91,7 +91,7 @@ Restro-Robot uses a knowledge graph retrieval system to process queries:
 ## Project Structure
 
 ```
-restro-robot/
+Zomato-Assignment/
 ├── src/
 │   ├── web/
 │   │   └── app.py             # Streamlit web interface
